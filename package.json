@@ -2,9 +2,9 @@
   "name": "tarot-db",
   "version": "0.0.0",
   "description": "A simple tarot API",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "keywords": [
     "tarot",
