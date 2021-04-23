@@ -1,0 +1,550 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "name": "I: The Magician",
+            "upright": "Creativity. Free will. Self-reliance. Skill. Spontaneity. Willpower. Self-confidence. A good salesman. Dexterity. Ingenuity. Deception. Trickery. Sleight of hand.",
+            "reversed": "Ineptitude. Insecurity. Spinelessness. Manipulation. Submission. Corruption. Disquiet. Delay. Lack of imagination. Willpower applied to evil ends. Disgrace.",
+            "major": true
+        },
+        {
+            "id": 2,
+            "name": "II: The High Priestess",
+            "upright": "Wisdom. Sound judgment. Common sense. Penetrating insight. Education. Compromise. Hidden emotion. Transcendence. Pragmatism. Sober analysis. Restraint.",
+            "reversed": "Ignorance. Shortsightedness. Misunderstanding. Selfishness. Superficiality. Shallowness. Haste. Inattention. A premature conclusion.",
+            "major": true
+        },
+        {
+            "id": 3,
+            "name": "III: The Empress",
+            "upright": "Action. Fertility. Empowerment. Marriage. A Mother, sister or wife/girlfriend. Feminine influence. Female guiles. Cooperation. Partnership. Disparate forces united.",
+            "reversed": "Vacillation. Inaction. A lack of concentration. Anxiety. Obsession. Loss. Scarcity. Co-dependence. Overprotectiveness. Vanity. Delay.",
+            "major": true
+        },
+        {
+            "id": 4,
+            "name": "IV: The Emperor",
+            "upright": "Political power. Accomplishment. Confidence. A father, brother or husband. Masculine influence. Wealth. Maturity. Stability. Authority. Leadership. Conviction.",
+            "reversed": "Immaturity. Ineffectiveness. Weakness. Sentimentality. Indecision. Cowardice. Rashness. Pettiness. Ego.",
+            "major": true
+        },
+        {
+            "id": 5,
+            "name": "V: The Hierophant",
+            "upright": "Ritualism. Kindness. Compassion. Good intentions. Platonic friendship. Inactivity. Doubt. Timidity. Imperception. Recalcitrance. Obstinance.",
+            "reversed": "Misplaced generosity. Undeserved trust. Repeated errors. Gullibility. Vulnerability. Frailty. Renunciation. Fraud. Artifice.",
+            "major": true
+        },
+        {
+            "id": 6,
+            "name": "VI: The Lovers",
+            "upright": "Love. Beauty. Perfection. Harmony. Trust. Honor. A new relationship. Deep emotion. Soulfulness. A test of sincerity. Sensuality.",
+            "reversed": "Unreliability. Failure. Separation. Frustration. Interference. Fickleness. Foolishness. Scheming. Foolhardiness.",
+            "major": true
+        },
+        {
+            "id": 7,
+            "name": "VII: The Chariot",
+            "upright": "Fortitude. Perseverance. Effort. Travel. Victory. Triumph. Escape. Prematurity. Trouble. Adversity. Conflict. Turmoil. Vengeance.",
+            "reversed": "Failure. Defeat. Sudden collapse. Conquest. Overwhelm. Denial. Fatigue. Unexpected loss. Resignation. Inadequacy.",
+            "major": true
+        },
+        {
+            "id": 8,
+            "name": "VIII: Justice",
+            "upright": "Fairness. Logic. Justice. Balance. Harmony. Just reward. Sincerity. Good intentions. Altruism. Charity. Self-assuredness. Good advice.",
+            "reversed": "Unfairness. Abuse. False accusations. Harsh judgment. Stereotypes. Intolerance. Backstabbing. Bias. Bad advice.",
+            "major": true
+        },
+        {
+            "id": 9,
+            "name": "IX: The Hermit",
+            "upright": "Counsel. Knowledge. Solicitude. Introspection. Prudence. Discretion. Caution. Vigilance. Circumspection. Denial. Withdrawal. Regression. Desertion.",
+            "reversed": "Haste or rashness. An immature person. Foolish imprudence. Bad advice. Sloth or laziness. Dull, mindless repetition. Banality.",
+            "major": true
+        },
+        {
+            "id": 10,
+            "name": "X: The Wheel of Fortune",
+            "upright": "Destiny. Fortune. Fate. Luck. Perseverance. Culmination. Conclusion. Solution. Surprise. Realization.",
+            "reversed": "Failure. Ill luck. Discontinuity. Bad luck. Short-sightedness. Illogicality. Missed opportunity.",
+            "major": true
+        },
+        {
+            "id": 11,
+            "name": "XI: Strength",
+            "upright": "Control. Strength. Courage. Fortitude. Conviction. Energy. Determination. Defiance. Action. Confidence. Accomplishment. Conquest. Fervor. Zeal.",
+            "reversed": "Weakness. Pettiness. Impotency. Sickness. Faithlessness. Corruption. Abuse. Temptation. Indifference. Apathy.",
+            "major": true
+        },
+        {
+            "id": 12,
+            "name": "XII: The Hanged Man",
+            "upright": "Suspension. Precariousness. Reversal. Boredom. Frustration. Abandonment. Renunciation. Sacrifice. Readjustment. Regeneration. Rebirth.",
+            "reversed": "Hopelessness. Preoccupation. Ego. False prediction. Sacrifice in vain. Ineptitude. Restriction. Racing thoughts. Daydream.",
+            "major": true
+        },
+        {
+            "id": 13,
+            "name": "XIII: Death",
+            "upright": "Transformation. Transition. Alteration. Abrupt change. Inauspiciousness. An illness or injury. Mishap. A financial loss. A bad investment.",
+            "reversed": "Stagnation. Immobility. An aversion to change. Inertia. Shock. A lingering memory. Nostalgia. Retrospection.",
+            "major": true
+        },
+        {
+            "id": 14,
+            "name": "XIV: Temperance",
+            "upright": "Temperance. Patience. Harmony. Restoration. Management. Compatibility. Adjustment. Beneficence. Auspice. Discovery.",
+            "reversed": "Discord. Disunion. Conflict. Hostility. Quarrelousness. Noncomformity. Loner. Hermit. Solitude.",
+            "major": true
+        },
+        {
+            "id": 15,
+            "name": "XV: The Devil",
+            "upright": "Subordination. Bondage. Downfall. Déjà vu. Unexpected failure. Goals unrealized. Depression. Insanity. Duplicitousness. Controversy. Self-punishment.",
+            "reversed": "Liberation. Manumission. Release. Deliverance. Independence. Unshackling. Divorce. Understanding. Enlightenment.",
+            "major": true
+        },
+        {
+            "id": 16,
+            "name": "XVI: The Falling Tower",
+            "upright": "Suddenness. Abandonment. Catastrophe. Disturbance. Breakup. Shock. Downfall. Undoing. Instability. Setback.",
+            "reversed": "Oppression. Stubbornness. An unsustainable situation. A rut. Dissatisfaction. A logjam. Embeddedness.",
+            "major": true
+        },
+        {
+            "id": 17,
+            "name": "XVII: The Star",
+            "upright": "Hope. Faith. Auspice. Tradition. Heritage. Optimism. Fulfillment. Satisfaction. Pleasure. Comfort. Happiness.",
+            "reversed": "Unfulfillment. Pessimism. Bad luck. Missed opportunity. Failure in business. Letdown. Disappointment.",
+            "major": true
+        },
+        {
+            "id": 18,
+            "name": "XVIII: The Moon",
+            "upright": "Deception. Obscurity. Trickery. Dishonesty. Danger. Error. Insincerity. Deceit. Double-dealing. Fraud. Caution.",
+            "reversed": "Trifling mistake. Undeserved reward. Advantage. Inside information. Bullet dodged. Brush with death.",
+            "major": true
+        },
+        {
+            "id": 19,
+            "name": "XIX: The Sun",
+            "upright": "Satisfaction. Accomplishment. A hard-fought reputation. Devotion. A happy engagement or marriage. Serenity. Exuberance. Sincerity.",
+            "reversed": "Unhappiness. Loneliness. A sudden breakup. Cancellation. Uncertainty. Difficulty.",
+            "major": true
+        },
+        {
+            "id": 20,
+            "name": "XX: Judgment",
+            "upright": "Atonement. Judgment. Repentance. Forgiveness. Account. Improvement. Development. Promotion. Outcome. Rebirth.",
+            "reversed": "Delay. Frustration. Denial. Indecision. Procrastination. Theft. Alienation. Unrequited love. Deep worry.",
+            "major": true
+        },
+        {
+            "id": 21,
+            "name": "XXI: The World",
+            "upright": "Perfection. Recognition. Honor. Ultimate change. Fulfillment. Capability. Triumph in undertakings. Just rewards from hard work. Success. Admiration of others.",
+            "reversed": "Imperfection. Indiscipline. Myopia. Shortsightedness. Disappointment. Futility. Broken heart. Resignation.",
+            "major": true
+        },
+        {
+            "id": 22,
+            "name": "XXII: The Fool",
+            "upright": "Beginning of an adventure. Enthusiasm. Initiative. New school or job. Unlimited possibilities. Thoughtlessness. Extravagance. Folly. Obsession.",
+            "reversed": "Faulty choice. Bad decision. Apathy. Hesitation. Indecision. Failure to diligently proceed. Ignoring opportunities. Shyness.",
+            "major": true
+        },
+        {
+            "id": 23,
+            "name": "Ace of Swords",
+            "upright": "Great determination. Forcefulness and initiative. Strength, fitness and physical activity. Triumph and conquest. Political power. Fertility. Prosperity or success in business. Deep emotions.",
+            "reversed": "Debacle. Tyranny. Disaster. Self-destruction. Violent temper. Embarrassment. Obstacle. Infertility. Hindrance.",
+            "major": false
+        },
+        {
+            "id": 24,
+            "name": "Two of Swords",
+            "upright": "Balance. Harmony. A firm ultimatum. Concord. A tactical stalemate. Affection. A truce. Courtesy. Tact necessary to maintain peace.",
+            "reversed": "Duplicity. Falsehoods and misrepresentation. Disloyalty. Dishonor. Treachery and lies. A false friend. A fraud presented as a fair deal.",
+            "major": false
+        },
+        {
+            "id": 25,
+            "name": "Three of Swords",
+            "upright": "Absence. Sorrow. Disappointment. Strife. Displacement. Dispersion. Diversion. Opposition. Separation. Delay. Tears. Unhappiness. Affliction. Grief.",
+            "reversed": "Distraction. Confusion. Disorder. Error. Mistake. Incompatibility. Mental anxieties. Alienation. Loneliness.",
+            "major": false
+        },
+        {
+            "id": 26,
+            "name": "Four of Swords",
+            "upright": "Repose. Replenishment. Solitude. Exile. Retreat. Temporary seclusion. Abandonment. Convalescence. Coping with mental illness.",
+            "reversed": "Activity. Circumspection. Precaution. Economy. Guarded advancement. Desire to recover what is lost.",
+            "major": false
+        },
+        {
+            "id": 27,
+            "name": "Five of Swords",
+            "upright": "Conquest. Defeat. Destruction of others. Degradation. A potential adversary. Revocation. Infamy. Dishonor. Sentimentality that weakens the will.",
+            "reversed": "An uncertain outlook. A possible loss or defeat. Weakness. Misfortune befalling a friend. Seduction. Burial.",
+            "major": false
+        },
+        {
+            "id": 28,
+            "name": "Six of Swords",
+            "upright": "A journey by water. Travel. Voyage. a headstrong attempt to overcome difficulty. Expedience. Success after anxiety.",
+            "reversed": "Stalemate. An unwanted proposal. A difficult situation without an immediate solution. A confession. A declaration.",
+            "major": false
+        },
+        {
+            "id": 29,
+            "name": "Seven of Swords",
+            "upright": "New plans. Wishes. Fortitude. Perseverance. A long-planned endeavor. Confidence. A fantasy. A unique design. Uncertain efforts. Vacillation.",
+            "reversed": "Arguments. Quarrels. Uncertain counsel or advice. Circumspection. Slander. Babbling. Nonsense. Unheeded wisdom.",
+            "major": false
+        },
+        {
+            "id": 30,
+            "name": "Eight of Swords",
+            "upright": "Crisis. Calamity. Conflict. Domination. Imprisonment. Turmoil. Bad news. Censure. Criticism. Sickness. Calumny. A crisis averted by a seized opportunity.",
+            "reversed": "Treachery. Difficulty. Manual labor. Insanity or mental illness. Depression or disquiet. A tragic accident. Death. Doom.",
+            "major": false
+        },
+        {
+            "id": 31,
+            "name": "Nine of Swords",
+            "upright": "Misery. Concern. Quarrel. Unhappiness. Miscarriage. Anxiety. Worry. Despair. Suffering. Desolation. Sleeplessness.",
+            "reversed": "Doubt. Suspicion. Gossip. Misinformation. Shame. Scruple. Timidity. Disrepute. Reasonable fear.",
+            "major": false
+        },
+        {
+            "id": 32,
+            "name": "Ten of Swords",
+            "upright": "Ruin. Pain. Affliction. Sadness. Anguish. Desolation. Tears. Misfortune. Trouble. Disappointment. Grief. Sorrow.",
+            "reversed": "Benefit. Profit. Temporary gain. Improvement. Passing success. Temporary favor. Momentary advantage.",
+            "major": false
+        },
+        {
+            "id": 33,
+            "name": "Page of Swords",
+            "upright": "Guardedness. Vigilance. Agility. Fitness. Preparation. Perception of the unknown.",
+            "reversed": "An imposter. The unforseen. An illness or disability. Mystery. Powerlessness. Unpreparedness.",
+            "major": false
+        },
+        {
+            "id": 34,
+            "name": "Knight of Swords",
+            "upright": "Bravery. Capacity. Youth. Dashing. Heroism. The unknown. Rashness. Warfare. Passion.",
+            "reversed": "Incapacity. Imprudence. Stupidity. Dispute. Ruined by a lover. Impulsivity. Conceit. Simplicity. Disunion.",
+            "major": false
+        },
+        {
+            "id": 35,
+            "name": "Queen of Swords",
+            "upright": "Quick wit. Keenness. Perception. Subtlety. Widowhood. Absence. Loneliness. Separation.",
+            "reversed": "Narrow-mindedness. Maliciousness. Bigotry. Deceit. Vengefulness. Prudishness. Ill temper.",
+            "major": false
+        },
+        {
+            "id": 36,
+            "name": "King of Swords",
+            "upright": "Determination. Experience. Authority. Proficiency. Analysis. Ideas. Craftmanship.",
+            "reversed": "Cruelty. Conflict. Selfishness. Sadism. Wickedness. A source of sadness. Perversion.",
+            "major": false
+        },
+        {
+            "id": 37,
+            "name": "Ace of Coins",
+            "upright": "Perfection. Attainment. Prosperity. Felicity. Riches. Bliss. Ecstasy. Value. Treasures. Prosperity.",
+            "reversed": "Prosperity without happiness. Squandered wealth. Waste. Corruption. Miserliness. Greed. Fool's gold.",
+            "major": false
+        },
+        {
+            "id": 38,
+            "name": "Two of Coins",
+            "upright": "Difficulty in launching new projects. Difficult situations arising. New troubles. Embarassment. Worry. Concern. Change which must be faced with equanimity.",
+            "reversed": "Literary ability. Agility in handling matters. Simulated enjoyment. Enforced gaiety. Letter. Message. Missive.",
+            "major": false
+        },
+        {
+            "id": 39,
+            "name": "Three of Coins",
+            "upright": "Great skill in trade or work. Mastery. Perfection. Artistic ability. Dignity. Renown. Power. An artisan whose work is in great demand.",
+            "reversed": "Sloppiness. Mediocrity. Low quality. Money problems. Commonplace ideas. Lack of skill. Preoccupation.",
+            "major": false
+        },
+        {
+            "id": 40,
+            "name": "Four of Coins",
+            "upright": "Love of material wealth. A hoarder or miser. Usury. A lack of generosity. An inability to share. Greed. A fear of financial upset. Acquisitiveness.",
+            "reversed": "A financial setback. An obstacle. Opposition to further gain. Suspense and delay. A spendthrift. A skinflint.",
+            "major": false
+        },
+        {
+            "id": 41,
+            "name": "Five of Coins",
+            "upright": "Material trouble. Destitution. Loss. Failure. Error. Impoverishment. A lover. Affection. Loss of job. Money problems caused by emotion.",
+            "reversed": "Reversal of bad trend. New interest in matters. Overcoming ruin. Disharmony in marriage or love interests.",
+            "major": false
+        },
+        {
+            "id": 42,
+            "name": "Six of Coins",
+            "upright": "Generosity. A philanthropist. Charity. Kindness. Gratification. Gifts. Material gain. Shared wealth. Measured generosity. A much-needed favor.",
+            "reversed": "Avarice. Selfishness. Envy. Jealousy. An ungiving person. Bad debts. An unpaid loan. Condescension.",
+            "major": false
+        },
+        {
+            "id": 43,
+            "name": "Seven of Coins",
+            "upright": "Ingenuity. Growth and progress. Hard work. A shrewd, successful deal. Money or wealth. Treasure. Reorganization. Upcoming dividends.",
+            "reversed": "Anxiety. Impatience. Uneasiness. Imprudent actions. Loss of money. Unwise investments. An unstable economy.",
+            "major": false
+        },
+        {
+            "id": 44,
+            "name": "Eight of Coins",
+            "upright": "Apprenticeship. Craftsmanship. An ability to learn quickly. Candor and frankness. Modesty. Meticulous handiwork. Personal effort. Focused commitment.",
+            "reversed": "Lack of ambition. Vanity. Conceit. Disillusionment. Usury. A hypocrite. Flattery. Intrigue. Laziness.",
+            "major": false
+        },
+        {
+            "id": 45,
+            "name": "Nine of Coins",
+            "upright": "Accomplishment. Discernment. Discretion. Foresight. Safety. Prudence. Material well-being. Love of nature. A sheltered environment. Cautious exploration.",
+            "reversed": "A threat to safety. Roguery. Storms or bad weather. Bad faith. Possible loss. A valued friendship ending. A treasured possession lost.",
+            "major": false
+        },
+        {
+            "id": 46,
+            "name": "Ten of Coins",
+            "upright": "Prosperity. Riches. Security. Safety. Family. Family matters. Ancestry. Inheritance. Home. Dwelling. Heirlooms. Rewards of old age and experience.",
+            "reversed": "Poor risk. Bad odds. A possible loss. Hazard. A robbery. Loss of inheritance. Dissipation. A gambler. Games of chance.",
+            "major": false
+        },
+        {
+            "id": 47,
+            "name": "Page of Coins",
+            "upright": "Deep concentration and application. Study. Scholarship. Reflection. Respect for knowledge. Desire for learning and new ideas. A do-gooder. Bearer of news.",
+            "reversed": "An unrealistic person. Dissipation of ideas. Illogical thinking. Rebelliousness. Wastefulness. Loss. Unfavorable news.",
+            "major": false
+        },
+        {
+            "id": 48,
+            "name": "Knight of Coins",
+            "upright": "A mature and responsible person. A reliable person. Patience. Persistence. The ability to conclude a task. Organization. Capability. A dependable person.",
+            "reversed": "Stagnation. Carelessness. Inertia. Lack of determination or direction. Narrow-mindedness. Dogmatic views. Idleness.",
+            "major": false
+        },
+        {
+            "id": 49,
+            "name": "Queen of Coins",
+            "upright": "Prosperity and well-being. Luxury. Extreme comfort. Security. Magnificence. Grace. Dignity. A generous, charitable person of means. A noble soul.",
+            "reversed": "False prosperity. Suspense. Suspicion. Responsibilities neglected. A vicious person. An untrusting person. Fear of failure.",
+            "major": false
+        },
+        {
+            "id": 50,
+            "name": "King of Coins",
+            "upright": "An experienced, successful leader. Character and intelligence. Business acumen. Mathematical ability. A loyal friend. A reliable marriage partner. Wise investments.",
+            "reversed": "Corruption. A Machiavellian person. Vice. Avarice. Unfaithfulness. A vicious man. Peril. Hunger for power. A betrayal.",
+            "major": false
+        },
+        {
+            "id": 51,
+            "name": "Ace of Wands",
+            "upright": "Creation or beginning. Invention. A new endeavor. Fortune or monetary gain. Newfound fame or renown. An inheritance. A child's birth. The beginning of a meaningful experience. An adventure.",
+            "reversed": "A false start. A cloudy outlook. An unrealized goal. Decadence. Empty existence. Vexation. A cancelled plan. An occupation without passion.",
+            "major": false
+        },
+        {
+            "id": 52,
+            "name": "Two of Wands",
+            "upright": "Maturity. A ruler. Goals/needs fulfilled. Boldness and courage. A dominant personality. Melancholy despite worldly riches.",
+            "reversed": "Sadness. Trouble. Restraint caused by others. Societal pressure. Loss of faith. Surprise. An unearned acheivment.",
+            "major": false
+        },
+        {
+            "id": 53,
+            "name": "Three of Wands",
+            "upright": "Practical knowledge. Business acumen. Strength. Enterprise. Negotiations. Trade. Commerce. A great undertaking. Import and export in business.",
+            "reversed": "An ulterior motive. Treachery. Diminishing adversity. Suspicious help. A hidden agenda. Adverse business advice.",
+            "major": false
+        },
+        {
+            "id": 54,
+            "name": "Four of Wands",
+            "upright": "Romance. A harmonious group. Newly acquired prosperity. Peace and tranquility. Rest after strife. Concord. Unity. Repose.",
+            "reversed": "Loss of full tranquility. Unfulfilled romance. Insecurity. Tarnished beauty. Incomplete happiness. Worry.",
+            "major": false
+        },
+        {
+            "id": 55,
+            "name": "Five of Wands",
+            "upright": "Struggle. Hard labor. Violent conflict or strife. An obstacle. A competition. A fight. Aggression. Martial arts. Violent sports.",
+            "reversed": "Trickery. Contradictions. Complexity. Involvement. Caution against indecision. Ability to use dispute for personal gain.",
+            "major": false
+        },
+        {
+            "id": 56,
+            "name": "Six of Wands",
+            "upright": "Good news. Advancement. Expectation. A desire realized. A payoff. A promotion. A skill/ability recognized. An idea implemented.",
+            "reversed": "Indefinite delay. Fear. Apprehension. Disloyalty. A superficial benefit. An inconclusive gain. Fleeting fame.",
+            "major": false
+        },
+        {
+            "id": 57,
+            "name": "Seven of Wands",
+            "upright": "Success. Strategic gain. Obstacles and challenges. Overwhelming odds surmounted. An advantage. Victory. Valor. A successful negotiation.",
+            "reversed": "Consternation. Anxiety. Embarrassment. Indecision. A loss caused by hesitation. Uncertainty. Perplexity. Doubt.",
+            "major": false
+        },
+        {
+            "id": 58,
+            "name": "Eight of Wands",
+            "upright": "Swift activity. Sudden progress or movement. Speed. A hasty decision. A premature development. A message delivered instantly.",
+            "reversed": "Jealousy. Harassment. A legal dispute. An injury caused by negligence. Discord. Delay. Stagnation. A domestic quarrel.",
+            "major": false
+        },
+        {
+            "id": 59,
+            "name": "Nine of Wands",
+            "upright": "Expectation of difficulty/change. Awaiting tribulation. Anticipation. A hidden enemy. Deception. Discipline. Order. A pause to a current struggle.",
+            "reversed": "An obstacle. Adversity. Problems. Delays. Displeasure. A serious disaster. Barriers to overcome. Ill health.",
+            "major": false
+        },
+        {
+            "id": 60,
+            "name": "Ten of Wands",
+            "upright": "Feeling overburdened. Excessive pressure. Problems soon to be resolved. Effort to meet a goal. Power used for selfish ends.",
+            "reversed": "Difficulties. Intrigues. Duplicity. Treachery. A traitor. A deceiver. Subterfuge. An inevitable loss.",
+            "major": false
+        },
+        {
+            "id": 61,
+            "name": "Page of Wands",
+            "upright": "A faithful, loyal person. An envoy or emissary. A trusted friend. A stranger with good intentions. A consistent person. A bearer of important news.",
+            "reversed": "Reluctance. Instability. Ruin caused by indecision. A gossip. A bearer of bad tidings. Displeasure.",
+            "major": false
+        },
+        {
+            "id": 62,
+            "name": "Knight of Wands",
+            "upright": "Departure. A journey. Advancement into the unknown. Flight. Absence. Change of residence. Traveler. Emigration. A dark young man.",
+            "reversed": "Discord. Interruption. Unexpected change. Quarreling. A breakup. Rupture. Discontinuance.",
+            "major": false
+        },
+        {
+            "id": 63,
+            "name": "Queen of Wands",
+            "upright": "A sympathetic and understanding person. Friendliness. Lovingness. Honor. Practicality. Ability for meaningful expression and love. Sincere interest in others.",
+            "reversed": "Jealousy. Deceit. Possible infidelity. Unstable emotions. Fickleness. Resistance. An obstacle. Opposition.",
+            "major": false
+        },
+        {
+            "id": 64,
+            "name": "King of Wands",
+            "upright": "An honest and conscientious person. Maturity. Devotion. Friendliness. Sympathy. An educated gentleman. A married person. A fatherly person.",
+            "reversed": "Severity. Austerity. Hyperbole. Dogmatism. Slavish devotion. Deliberateness. Intolerance.",
+            "major": false
+        },
+        {
+            "id": 65,
+            "name": "Ace of Cups",
+            "upright": "Great abundance. Fulfillment. Perfection. Fertility. Opulence. Happiness. Productiveness. Beauty and pleasure. Goodness overflowing. A favorable outlook.",
+            "reversed": "Change. Alteration. Erosion. Instability. Sterility. Unrequited love. Clouded joy. A false heart. Inconsistency.",
+            "major": false
+        },
+        {
+            "id": 66,
+            "name": "Two of Cups",
+            "upright": "Friendship. Passion. Engagement. Renewal. Understanding. Cooperation. Partnership. Unity against all odds. Agreement. Harmony.",
+            "reversed": "An unsatisfactory love. A false friendship. A troubled relationship. Divorce. Crossed desires. Opposition. Misunderstanding.",
+            "major": false
+        },
+        {
+            "id": 67,
+            "name": "Three of Cups",
+            "upright": "Resolution of a problem. Conclusion. Solace. Healing. A satisfactory result. Fulfillment. Compromise. Friendship among women. Inspiration in arts.",
+            "reversed": "Excess. Overabundance. Indulgence. Superfluity. Loss of prestige. A fall from grace. Delays. Ingratitude.",
+            "major": false
+        },
+        {
+            "id": 68,
+            "name": "Four of Cups",
+            "upright": "Weariness. Aversion. Disgust. Disappointment. Unhappiness. Bitterness. Stagnation. Discontent in spite of abundance.",
+            "reversed": "New possibilities. New relationships. New approaches to old problems. New acquaintance. New knowledge.",
+            "major": false
+        },
+        {
+            "id": 69,
+            "name": "Five of Cups",
+            "upright": "Partial loss. Regret. A shallow, meaningless friendship. A loveless marriage. Imperfection. A flaw. Inheritance. An incomplete union or partnership.",
+            "reversed": "A hopeful outlook. Favorable expectations. New alliances. Affinity. The return of an old friend. Reunion.",
+            "major": false
+        },
+        {
+            "id": 70,
+            "name": "Six of Cups",
+            "upright": "Memories. Past influences. Things that have vanished. Childhood passed. Nostalgia. Faded images. Longing. Insight from reflecting on the past.",
+            "reversed": "A newly-realized future. An opportunity ahead. An upcoming event or arrival. New viewpoints. A formerly unimaginable possibility. Plans that may fail.",
+            "major": false
+        },
+        {
+            "id": 71,
+            "name": "Seven of Cups",
+            "upright": "Fantasy. An unrealistic attitude. Imagination. Daydreams. Foolish whims. Wishful thinking. Illusionary success. Style without substance. A naïve person.",
+            "reversed": "Desire. Determination. Strong willpower. A goal nearly attained. Intelligent choice. Perseverance. Resolution.",
+            "major": false
+        },
+        {
+            "id": 72,
+            "name": "Eight of Cups",
+            "upright": "Discontinuance of effort. Disappointment. Abandonment of previous plans. Shyness. Modesty. Success abandoned, possibly for something better. Indolence.",
+            "reversed": "Effort continued until full success is attained. Festivity. Joy. Gaiety. Feasting. Pleasure. Holidays.",
+            "major": false
+        },
+        {
+            "id": 73,
+            "name": "Nine of Cups",
+            "upright": "Success. Windfall. Advantage. Well-being. Abundance. Good health. Victory. Difficulties surmounted. Stability. Fulfillment.",
+            "reversed": "A terrible mistake. Material loss. Imperfections. Misplaced truth. False freedom. Opposition. Difference. Dispute.",
+            "major": false
+        },
+        {
+            "id": 74,
+            "name": "Ten of Cups",
+            "upright": "A home or abode. A sense of belonging. Contentment. Family life. Esteem. Virtue. A good reputation. Community support.",
+            "reversed": "A lost friendship. Unhappiness. Family quarreling. Pettiness. Rage. Combat. Strife. Opposition. A difference of opinion.",
+            "major": false
+        },
+        {
+            "id": 75,
+            "name": "Page of Cups",
+            "upright": "Studiousness. Reflection. Meditation. Loyalty. Focused effort. Much-needed help. Trustworthiness. Timeliness.",
+            "reversed": "Inclination. Deviation. Susceptibility. Distraction. Seduction. Flattery. Co-dependence.",
+            "major": false
+        },
+        {
+            "id": 76,
+            "name": "Knight of Cups",
+            "upright": "An impending opportunity. A momentous arrival. A major development. Sex appeal. Inducement. Request. A challenge. A proposal.",
+            "reversed": "Subtlety. Artifice. Trickery. Deception. Fraud. A sly, cunning person. A swindler.",
+            "major": false
+        },
+        {
+            "id": 77,
+            "name": "Queen of Cups",
+            "upright": "Warmth. Fairness. Poetry. Adoration. Friendship. Motherhood. Devotion. Honesty. Intelligence. Clairvoyance.",
+            "reversed": "Dishonor. Immorality. Promiscuity. Dishonesty. Unreliability. Vice. Untrustworthiness.",
+            "major": false
+        },
+        {
+            "id": 78,
+            "name": "King of Cups",
+            "upright": "Responsibility. Creativity. Scholarship. A professional. A businessman. A lawyer. A religious person. Scientific advancement. An artist. Generosity.",
+            "reversed": "Artistic temperament. Double-dealing. Dishonesty. Scandal. Ruin. Injustice. A crafty person without virtue. Shiftiness.",
+            "major": false
+        }
+    ]
+}
